@@ -17,6 +17,11 @@ body a:link {
 	text-decoration:none;
 }
 
+h2 {
+	font-size:44px;
+	line-height: 88px;
+}
+
 body a:visited {
 	color: #6633cc;
 	text-decoration:none;
