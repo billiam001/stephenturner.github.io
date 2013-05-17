@@ -1,6 +1,7 @@
-stephenturner.github.com
-========================
+# stephenturner.github.io
 
 Homepage of Stephen D. Turner, Ph.D., Bioinformatics Core Director at the University of Virginia
 
-[stephenturner.github.com](http://stephenturner.github.com)
+<http://stephenturner.github.io>
+
+<http://stephenturner.us>
